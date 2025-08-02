@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.modal-overlay-bg {
+    background-color: #000000b0;
+}
